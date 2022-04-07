@@ -43,3 +43,39 @@ a{
     color: rgb(207, 207, 207);
 }
 /* navigation section ================================================= styling end */
+
+
+
+/* section =============================================================== styling starts */
+section{
+    background: rgb(239,239,239);
+    background: linear-gradient(rgba(255,255,255,1) 100%, 65deg, rgba(239,239,239,1) 46%);
+}
+.text-section{
+    margin-left: 100px;
+    font-size: 22px;
+}
+.img-section{
+    margin-left: 100px;
+}
+.footer{
+    font-size: 13px;
+    text-align: justify;
+}
+
+#signup{
+    background-color: green !important;
+    border: none;
+    width: 200px;
+    margin-left: 30px;
+    height: 35px;
+    border-radius: 15px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+#signup:hover{
+    background-color: rgb(29, 211, 29) !important;
+}
+/* section =========================================================== styling ends */
