@@ -79,3 +79,22 @@ section{
     background-color: rgb(29, 211, 29) !important;
 }
 /* section =========================================================== styling ends */
+
+
+
+/* responsive ================================================== mediaquery starts */
+@media screen and (max-width: 1085px){
+    .navbar{
+        padding-right: 10px;
+    }
+    .img-section{
+        margin-left: 10px;
+    }
+    .text-section{
+        margin-left: 10px;
+    }
+    .navbar-brand{
+        margin-left: 10px;
+    }
+}
+/* responsive ========================================================= meadiaquery ends */
